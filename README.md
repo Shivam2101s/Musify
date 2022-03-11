@@ -1,5 +1,7 @@
 # Musify | Music App
 
+Musify is a music app made using ReactJs, here user can listen to music, create his playlist and filter the songs by artists. 
+
 ## Deployment Link:
 
   Link: 
