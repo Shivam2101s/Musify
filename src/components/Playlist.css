@@ -1,4 +1,4 @@
-#playlist_main {
+#playlist_main  {
   width: 86%;
   padding: 35px 2%;
   background-image: url("https://media.istockphoto.com/vectors/music-notes-line-icon-watercolor-background-vector-id995038402?b=1&k=20&m=995038402&s=170667a&w=0&h=O4gjJMSpMEtKa1hrP9ydBsVHWf-7wYku70uDDxFQ6Lc=");
@@ -66,4 +66,15 @@
     margin-top:10px;
     width: 30%;
    
+}
+.noData_div{
+    width: 70%;
+    margin: 50px auto;
+    max-height: 500px;
+    overflow-y: scroll;
+    transition: 0.5s;
+}
+#noData_img{
+    width: 70%;
+    margin: 0 15% ;
 }

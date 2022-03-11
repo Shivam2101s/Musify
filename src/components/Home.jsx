@@ -50,6 +50,7 @@ export const Home = () => {
   }
 
   return (
+    
     <div id="home_main">
       {data.map((e, i) => (
         <div

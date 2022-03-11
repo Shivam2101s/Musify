@@ -48,6 +48,7 @@ export const Playlist = () => {
           <option value="Sara">Sara Haider</option>
         </select>
       </div>
+      {data.length>0 ? 
       <div id="playlist_sec_div">
         {data.map((e, i) => (
           <div key={i} className="playlist_song_div">
@@ -59,6 +60,10 @@ export const Playlist = () => {
           </div>
         ))}
       </div>
+    : <div className="noData_div">
+      <img id="noData_img" src="https://c.tenor.com/unvXyxtdn3oAAAAC/no-result.gif" alt="" />
+      </div>} 
     </div>
+
   );
 };
