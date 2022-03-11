@@ -4,7 +4,7 @@ Musify is a music app made using ReactJs, here user can listen to music, create 
 
 ## Deployment Link:
 
-  Link: 
+  Link: https://musify-zeta.vercel.app
 
 ## Some glimpse of the project
 
