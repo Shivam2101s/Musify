@@ -1,6 +1,13 @@
-.App {
-  text-align: center;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+
+.App {
+ display: flex;
+}
+
 
 .App-logo {
   height: 40vmin;
