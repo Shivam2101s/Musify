@@ -9,16 +9,16 @@ Musify is a music app made using ReactJs, here user can listen to music, create 
 ## Some glimpse of the project
 
 
-# Home Page
+### Home Page
 
 <img src="https://github.com/Shivam2101s/images/blob/main/Musify/Home.jpg?raw=true">
 
-# Playlist Page
+### Playlist Page
 
 <img src="https://github.com/Shivam2101s/images/blob/main/Musify/playlist.jpg?raw=true">
 
 
-# No data Page (Playlist filter)
+### No data Page (Playlist filter)
 
 <img src="https://github.com/Shivam2101s/images/blob/main/Musify/NoData_page.jpg?raw=true">
 
