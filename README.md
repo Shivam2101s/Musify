@@ -35,4 +35,4 @@ Musify is a music app made using ReactJs, here user can listen to music, create 
 
 ## Technology used
 
-<img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" width="40%" height="100px" />
+<img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" width="40%" height="80px" />
